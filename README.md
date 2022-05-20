@@ -1,8 +1,6 @@
-# BLM-205-Gercek-Zamanli-Sosyal-Mesafe-Analizi
+BLM 302 – Mikrokontrolörler ve Robotik - Sumo Robot
 
--Fenerbahçe Üniversite Gerçek Zamanlı Sosyal Mesafe Analizi Projesi-
-
-Gerekli tüm dosyalar rar içerisinde mevcuttur.
+-Fenerbahçe Üniversite Sumo Robot Projesi-
 
 Hazırlayanlar:
 
@@ -10,6 +8,6 @@ Erdem Şentürk
 
 Mehmet Çolak
 
-Ogün Berat Gürses
+Alp Yılmaz
 
-Sunum Videosu: https://youtu.be/VtgfCFJX-Us
+Sunum Videosu: https://youtu.be/d_70NQVPwKE
